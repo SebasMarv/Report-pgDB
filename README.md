@@ -19,19 +19,17 @@ El proyecto fue realizado con el fin de extraer reportes de forma automatica en 
 
 ## Librerias a instalar
 
-"""shell
+```shell
 pip install xlwt
 pip install psycopg2
-"""
+```
 
 ## Recordar
 
 # Cambiar datos
 
 Cambiar usuario y contraseña de la conexion a la base de datos.
-
 ![](img/user_pass_DB.png)
 
 Cambiar usuario y contraseña del correo remitente (debe ser un correo existente).
-
 ![](img/user_pass_email.png)
