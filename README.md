@@ -24,9 +24,9 @@ pip install xlwt
 pip install psycopg2
 ```
 
-## Recordar
+# Recordar
 
-# Cambiar datos
+## Cambiar datos
 
 Cambiar usuario y contraseña de la conexion a la base de datos.
 ![](img/user_pass_DB.png)
