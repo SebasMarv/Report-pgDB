@@ -1,6 +1,6 @@
 # Report-pgDB
 
-![](imag/Correo_img.png)
+![](img/Correo_img.png)
 
 El proyecto fue realizado con el fin de extraer reportes de forma automatica en un Excel y enviar estos adjuntos via correo.
 
@@ -30,8 +30,8 @@ pip install psycopg2
 
 Cambiar usuario y contraseña de la conexion a la base de datos.
 
-![](imag/user_pass_DB.png)
+![](img/user_pass_DB.png)
 
 Cambiar usuario y contraseña del correo remitente (debe ser un correo existente).
 
-![](imag/user_pass_email.png)
+![](img/user_pass_email.png)
